@@ -53,6 +53,7 @@ let cities = ["BBSR","CTC","JPR","KDP","BDK"];
 let addcity= "kjr";
 //cities.push(addcity);
 //console.log(cities); //add element in an array using push()method (added in last).
+
 //pop()
 //console.log(cities);
 //cities.pop();
@@ -62,7 +63,12 @@ let addcity= "kjr";
 //console.log(cities);
 //cities.shift();
 //console.log(cities);
+
 //unshift
+//unshift()
+//console.log(cities);
+ //cities.unshift("");
+ //console.log(cities);
 
 //concat :
 let fruits = ["apple","mango"];
